@@ -59,7 +59,7 @@ h1{
 }
 .form-box{
   display:flex;
-  margin-top:2em;
+  margin-top:1rem;
   flex-direction: column;
   justify-content: center;
 }
@@ -100,7 +100,7 @@ input[type=submit],button{
 }
 label{
   display:block;
-  margin:1em 1em 1em 0;
+  margin-bottom:0.75rem;
   font-weight:600;
 }
 .main-head{
