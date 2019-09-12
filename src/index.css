@@ -31,12 +31,27 @@
   height:12vh;
   width:50%;
   resize:none;
+  box-shadow: 2px 2px rgb(204, 204, 204);
+}
+input[type=text]{
+  height:5vh;
+  box-shadow: 1px 1px rgb(204, 204, 204);
 }
 .button-sub{
   display:flex;
   justify-content: center;
   margin-bottom:0.5rem;
   cursor: pointer;
+  box-sizing: content-box;
+  padding:6px;
+  background: none;
+  border: 1px solid rgb(4, 140, 218);
+  box-shadow: 1px 2px 1px 1px rgb(129, 129, 129);
+}
+.button-sub:hover{
+  background:rgb(4, 140, 218);
+  color:#fff;
+  
 }
 .form-box{
   display:flex;
@@ -50,7 +65,17 @@
   margin-bottom:1rem;
 }
 input[type=submit]{
+  box-sizing: content-box;
+  padding:6px;
+  margin-left: 1rem;
+  background: none;
+  border: 1px solid rgb(4, 140, 218);
+  box-shadow: 1px 2px 1px 1px rgb(129, 129, 129);
   cursor:pointer;
+}
+input[type=submit]:hover{
+  background: rgb(4, 140, 218);
+  color:#fff;
 }
 .generate-btn{
   display:block;
@@ -73,5 +98,4 @@ label{
   display:block;
   margin:1em 1em 1em 0;
   font-weight:600;
-  
 }

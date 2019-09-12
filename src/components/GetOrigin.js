@@ -17,10 +17,9 @@ class getOrigin extends Component {
                     className="input-fields"
                     ref={this.OriInput}
                     placeholder="Enter Text and Grammar rules starting here"
-                    >
+                >
                 </textarea>
-
-                <input className="button-sub" type="submit" value="Submit" />
+                <button className="button-sub">Submit</button>
             </form>
         );
     }
