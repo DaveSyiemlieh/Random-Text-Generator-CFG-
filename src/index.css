@@ -50,8 +50,12 @@ input[type=text]{
 }
 .button-sub:hover{
   background:rgb(4, 140, 218);
-  color:#fff;
-  
+  color:#fff; 
+}
+
+h1{
+  margin-top:1rem;
+  text-align:center;
 }
 .form-box{
   display:flex;
@@ -98,4 +102,5 @@ label{
   display:block;
   margin:1em 1em 1em 0;
   font-weight:600;
+  
 }
