@@ -6,8 +6,15 @@ Ensure you have NodeJS installed and run the following commands in the terminal:
 
 ## EXAMPLES
 ### Inputs
-<img src="public/input.jpg" alt="image"/>
+<img src="public/input.JPG" alt=""/>
+
 ### Generate
-<img src="public/generate.jpg" alt="image"/>
-### Output
-<img src="public/output.jpg" alt="image"/>
+<img src="public/generate.JPG" alt=""/>
+
+You will get one random output out of the 4 possible outputs:
+### Jack is good
+### Jack is bad
+### Jill is good
+### Jill is bad
+
+## ENJOY! GO CRAZY WITH YOUR GRAMMAR RULES!
