@@ -7,6 +7,7 @@ Ensure you have NodeJS installed and run the following commands in the terminal:
 ## EXAMPLES
 ### Inputs
 <img src="public/input.JPG" alt=""/>
+
 ### Generate
 <img src="public/generate.JPG" alt=""/>
 
