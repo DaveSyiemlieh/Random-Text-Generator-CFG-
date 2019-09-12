@@ -89,7 +89,8 @@ class App extends Component {
               <li>If a matching rule is found, then it will be replaced by the other text/more grammar rules specified in the grammar rule</li>
               <li>After entering your text or grammar rule, click on SUBMIT for your new text to take effect</li>
               <li>When you're happy with your setup, click (lots of times) on GENERATE and watch the magic unfold!</li>
-              <li><a href="">Click Here</a> for an example.</li>
+              <li><a href="https://github.com/CodeVague/Random-Text-Generator-CFG-"
+              target="blank">Click Here</a> for an example.</li>
             </ol>
           </div>
         </div>
