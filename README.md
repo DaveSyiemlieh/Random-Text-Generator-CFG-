@@ -1,7 +1,6 @@
 # RANDOM-TEXT-GENERATOR BASED ON CONTEXT-FREE-GRAMMAR
-
+> In collaration with <a href="https://github.com/Damiki">Damiki</a>
 ## CHECK THE APP <a href="https://rtgenerator.herokuapp.com/">HERE</a>
-
 ### Running the Project Locally
 Ensure you have NodeJS installed and run the following commands in the terminal:
 ### `npm install`
